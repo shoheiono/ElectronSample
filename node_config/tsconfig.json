@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"baseUrl": "/src/ts",
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"jsx": "react",
+		"module": "commonjs",
+		"noImplicitAny": false,
+		"outDir": "/dist/js",
+		"removeComments": false,
+		"sourceMap": true,
+		"target": "ES5"
+	},
+	"exclude": [
+		"node_modules",
+		"dist"
+	]
+}
